@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 27.045443457630295,
+    "en_fr": 56.848812914635175,
+    "en_tl": 68.9426607279385,
+    "en_nl": 60.137706360824254
+  },
+  "test_match": {
+    "en_en_3": 27.045443457630295,
+    "en_tl_3": 68.9426607279385,
+    "en_nl_3": 60.137706360824254
+  },
+  "test_generate": {
+    "english_1_gram": "I\u263e\ud83d\udcbb\u00c7\ud83d\udc9a\u0df4\ud83d\ude1b\u0639\u203c\u279b\ud83e\udd40\ud83d\udeac\ud83c\udfd9\ud83e\udd81\ud83d\udc44\ud83d\ude0b\u0398\ud83c\udfaf\u304f\ud5cc\ud83d\udca7",
+    "english_2_gram": "I amevsk: t i FI a OfdTr",
+    "english_3_gram": "I ame 1000N3656\u03a3\ud83d\udcaf\u00e7\ud83d\ude08\u0915\u8005\u264b\ud83c\udd7f\ud83d\ude0b",
+    "english_4_gram": "I Lovery kistes #new votes",
+    "spanish_2_gram": "Soy hesbit.ces\u03a3\ud83d\udcaf\u2b05\u03a3\u264b\ud83c\udd7f\ud83d\ude0b\u03a3\uff16",
+    "spanish_3_gram": "Soy viscupciosa la todi",
+    "french_2_gram": "Je suisGrrivit #bigeme tpoi",
+    "french_3_gram": "Je suis https dieun avegans"
+  }
+}
